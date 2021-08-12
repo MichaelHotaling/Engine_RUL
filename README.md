@@ -1,5 +1,4 @@
-# 
-
+# Predicting Remaining Useful Life of Machinery using Machine Learning
 
 Remaining Useful Life, or RUL, is a metric used to define the number of cycles or timeframe machinery, systems, or
 components have before maintenance should be performed. Accurately predictive RUL plays a critical role in equipment
